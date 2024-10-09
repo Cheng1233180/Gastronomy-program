@@ -1,0 +1,64 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "task_achievement_level",
+      "value": "已经%d天达成目标"
+    },
+    {
+      "name": "welcome_title",
+      "value": "Thank you for using Baizhan Keep"
+    },
+    {
+      "name": "welcome_span_one",
+      "value": "       Please understand that by registering as a user of Baizhan Fitness, you can use the functions of this software. Before you register, you can still browse the functions and service content of this software."
+    },
+    {
+      "name": "welcome_span_two",
+      "value": "       In order to better protect your privacy and rights, we have customized"
+    },
+    {
+      "name": "personal_privacy_protocol",
+      "value": "Sensitive Personal Information Processing Authorization Agreement"
+    },
+    {
+      "name": "welcome_span_three",
+      "value": ",We would like to inform you that in addition, we will"
+    },
+    {
+      "name": "user_protocol",
+      "value": "User Agreement"
+    },
+    {
+      "name": "and",
+      "value": "and"
+    },
+    {
+      "name": "bk_privacy_protocol",
+      "value": "BaiZhan Keep Privacy Policy"
+    },
+    {
+      "name": "welcome_span_four",
+      "value": "Help you understand our collection, use, storage, and sharing of personal information."
+    },
+    {
+      "name": "welcome_span_end",
+      "value": "       If you agree with the above content, please click agree and continue to use this software. We will continuously improve our technology and security management to protect your personal information."
+    },
+    {
+      "name": "empty",
+      "value": "empty"
+    }
+  ]
+}

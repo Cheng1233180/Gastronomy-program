@@ -1,0 +1,48 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "tab_bar_normal",
+      "value": "#ffd0d0d0"
+    },
+    {
+      "name": "tab_bar_sel",
+      "value": "#007dff"
+    },
+    {
+      "name": "theme_color",
+      "value": "#8bffd6"
+    },
+    {
+      "name": "light_gray",
+      "value": "#FFEFEFEF"
+    },
+    {
+      "name": "task_color",
+      "value": "#FF59A6EF"
+    },
+    {
+      "name": "btn_color",
+      "value": "#ffa5d1ff"
+    },
+    {
+      "name": "progress_normal",
+      "value": "#4A561212"
+    },
+    {
+      "name": "progress_sel",
+      "value": "#FFFF2727"
+    },
+    {
+      "name": "dark_gray",
+      "value": "#FF2D2C2C"
+    },
+    {
+      "name": "privacy_color",
+      "value": "#ff3cdd29"
+    }
+  ]
+}

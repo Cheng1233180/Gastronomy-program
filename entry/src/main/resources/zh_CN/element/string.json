@@ -1,0 +1,64 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "百战健身"
+    },
+    {
+      "name": "task_achievement_level",
+      "value": "已经%d天达成目标"
+    },
+    {
+      "name": "welcome_title",
+      "value": "感谢使用百战健身"
+    },
+    {
+      "name": "welcome_span_one",
+      "value": "       请您了解，您注册成为百战健身用户便可使用本软件的功能，在您注册前您仍然可以浏览本软件中的功能和服务内容。"
+    },
+    {
+      "name": "welcome_span_two",
+      "value": "       为了更好的保护您的隐私和权益，我们定制了"
+    },
+    {
+      "name": "personal_privacy_protocol",
+      "value": "《敏感个人信息处理授权协议》"
+    },
+    {
+      "name": "welcome_span_three",
+      "value": "，特向您说明，此外我们将通过"
+    },
+    {
+      "name": "user_protocol",
+      "value": "《用户协议》"
+    },
+    {
+      "name": "and",
+      "value": "和"
+    },
+    {
+      "name": "bk_privacy_protocol",
+      "value": "《百战健身隐私政策》"
+    },
+    {
+      "name": "welcome_span_four",
+      "value": "帮助您了解我们收集、使用、存储和共享个人信息的情况。"
+    },
+    {
+      "name": "welcome_span_end",
+      "value": "       如您同意前述内容，请点击同意并继续使用本软件。我们会不断完善技术和安全管理，保护您的个人信息。"
+    },
+    {
+      "name": "empty",
+      "value": "empty"
+    }
+  ]
+}
